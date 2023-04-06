@@ -7,7 +7,7 @@ void dda(int x1, int y1, int x2, int y2)
     int dx = x2 - x1; 
     int dy = y2 - y1;
     float m;
-    
+    //qbvjbdvi
     int gd = DETECT, gm;
     initgraph(&gd, &gm, "C:\\TURBOC3\\BGI");
     
